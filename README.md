@@ -7,7 +7,9 @@ Welcome to my **So Long** repository! This project is part of the **42 curriculu
 ## **✅ Project Validation**
 - **Validated on:** September 15, 2024
 - **Final Score:** 110/100
-  - Achieved **bonus part** 🎉
+  - Achieved **one bonus part** 🎉
+  - Implemented the on-screen movement counter display (bonus #3)
+  - Did not implement enemy patrols or sprite animations (bonuses #1 and #2)
 
 ---
 
