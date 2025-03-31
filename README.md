@@ -1,6 +1,6 @@
 # 🎮 So Long - A Simple 2D Game
 
-Welcome to my **so_long** repository! This project is part of the **42 curriculum**, where I developed a simple 2D game in C using the MiniLibX graphics library. This project strengthened my understanding of graphics programming, event handling, game logic, and parsing handling.
+Welcome to my **So Long** repository! This project is part of the **42 curriculum**, where I developed a simple 2D game in C using the MiniLibX graphics library. This project strengthened my understanding of graphics programming, event handling, game logic, and parsing handling.
 
 ---
 
@@ -224,14 +224,6 @@ This enhancement required:
 - Integration with MiniLibX's string rendering functions
 - Careful positioning of the counter on the game window
 - Managing the rendering layer to ensure visibility
-
----
-
-## **⚠️ Limitations & Challenges**
-- **MiniLibX Constraints**: The library has limited documentation and functionality compared to more modern graphics libraries
-- **Memory Management**: Required careful handling of textures and map data to avoid leaks
-- **Map Validation**: Implementing path finding to verify map solvability was challenging
-- **Event Handling**: X11 event system required careful implementation
 
 ---
 
