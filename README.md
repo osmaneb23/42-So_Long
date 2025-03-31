@@ -1,4 +1,4 @@
-# 🎮 So_long - A Simple 2D Game
+# 🎮 So Long - A Simple 2D Game
 
 Welcome to my **so_long** repository! This project is part of the **42 curriculum**, where I developed a simple 2D game in C using the MiniLibX graphics library. This project strengthened my understanding of graphics programming, event handling, game logic, and parsing handling.
 
